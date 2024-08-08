@@ -1,0 +1,16 @@
+*{
+    font-family: 'Courier New',
+     Courier, monospace;
+     font-size: 20px;
+}
+
+
+#superheros{
+    background-color: pink;
+    text-align: center;
+}
+
+.super{
+    color: green;
+    font-weight: 800;
+} 
